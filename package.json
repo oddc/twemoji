@@ -24,10 +24,6 @@
     "name": "Twitter, Inc.",
     "web": "https://github.com/twitter/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/twitter/twemoji.git"
-  },
   "main": "./2/twemoji.npm.js",
   "scripts": {
     "test": "phantomjs testrunner.js"
